@@ -12,9 +12,6 @@ A beautiful, modern dark mode reminder app for iOS, built with SwiftUI. Includes
 - 🔔 **Notifications**: Get notified for your reminders
 - ⚡ **Smooth Animations**: Modern, responsive UI
 
-## Screenshots
-*Add your screenshots here!*
-
 ## Getting Started
 
 1. **Clone the repo:**
